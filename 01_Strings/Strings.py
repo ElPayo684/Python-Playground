@@ -1,0 +1,5 @@
+print('Bienvenido' + ' ' +'Eddard')
+print('Me llamo \"Eddard\"')
+print('Linea 1\nLinea 2')
+print('\tLinea 3')
+print('this isn\'t a number')
